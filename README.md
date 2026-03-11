@@ -1,4 +1,4 @@
-<h1 align="center">VUMIX98 / Coder / Vibecoder</h1>
+<h1 align="center">VUMIX / Coder / Vibecoder</h1>
 
 ###
 
